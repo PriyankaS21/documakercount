@@ -1,0 +1,255 @@
+{
+    "Notice Third party offer": [
+        "Important Information about your policy - please review",
+        "Notice Third party offer"
+    ],
+    "confirmation premium payment": [
+        "premium payment confirmation"
+    ],
+    "confirmation loan collateral interest credit": [
+        "loan collateral interest credit confirmation"
+    ],
+    "confirmation loan interest capitalization": [
+        "loan interest capitalization confirmation"
+    ],
+    "bill loan interest only": [
+        "notice of loan interest payment due",
+        "Important information about your Policy"
+    ],
+    "confirmation apl": [
+        "automatic premium loan confirmation"
+    ],
+    "notice net gain dividends": [
+        "Important Tax Information – Immediate Attention Needed",
+        "NOTICE NET GAIN DIVIDENDS"
+    ],
+    "confirmation discontinue accelerated payment-premium offset": [
+        "discontinue accelerated payment confirmation"
+    ],
+    "notice term expiration": [
+        "Your policy will expire shortly",
+        "Your policy has expired"
+    ],
+    "quote withdrawl": [
+        "policy withdrawal quote"
+    ],
+    "audit": [
+        "your request has been received – please review",
+        "audit"
+    ],
+    "1035 exchange confirmation": [
+        "1035 exchange confirmation"
+    ],
+    "acknowledgement of life insurance letter": [
+        "statement of coverage – please review"
+    ],
+    "accelerated payment confirmation": [
+        "accelerated payment confirmation",
+        "under this payment arrangement, a withdrawal from your policy’s"
+    ],
+    "accelerated payment quote": [
+        "QUOTE ACCELERATED PAYMENT-PREMIUM OFFSET"
+    ],
+    "address change confirmation": [
+        "address change confirmation"
+    ],
+    "annual policy statement": [
+        "annual policy statement"
+    ],
+    "auto reinstatement": [
+        "notice of policy lapse"        
+    ],
+    "bill grace prelapse": [
+        "notice of overdue payment",
+        "FACE AMOUNT:"
+    ],
+    "ca beneficiary notification": [
+        "ca beneficiary notification",
+        "important information about your policy– please review"
+    ],
+    "ca consumer letter": [
+        "important insurance disclosure – please review",
+        "ca consumer letter"
+    ],
+    "confirmation frequency change": [
+        "payment change confirmation",
+        "Keep this information with your"
+    ],
+    "confirmation reinstatement": [
+        "reinstatement confirmation"
+    ],
+    "dividend option change": [
+        "dividend transaction confirmation",
+        "dividend transfer confirmation",
+        "dividend option change confirmation"
+    ],
+    "electronic payment confirmation": [
+        "electronic payment confirmation"
+    ],
+    "explanation of benefits": [
+        "explanation of benefits",
+        "Detach Check"
+    ],
+    "fl consumer letter": [
+        "fl consumer letter",
+        "important insurance disclosure – please review"
+    ],
+    "fully paid-up confirmation": [
+        "fully paid-up confirmation"
+    ],
+    "life quote nonforfeiture": [
+        "reduced paid-up insurance quote",
+        "life quote nonforfeiture"
+    ],
+    "loan exceeds cash value termination": [
+        "important information – your policy has been cancelled"
+    ],
+    "lapse notification": [
+        "important notification – your policy has lapsed"
+    ],
+    "loan repayment confirmation": [
+        "loan repayment confirmation"
+    ],
+    "maturity notification": [
+        "your reply is important – please review and respond"
+    ],
+    "nh consumer letter": [
+        "nh consumer letter",
+        "Important insurance disclosure – Please review"
+    ],
+    "notice impact of loan or withdrawal on accelerated payment": [
+        "important information – please review"
+    ],
+    "notice child": [
+        "important information about your policy– please review",
+        "Child Term Rider Certification Form"
+    ],
+    "notice nsf": [
+        "your payment has been returned– immediate attention required"
+    ],
+    "notice of minimum loan repayment": [
+        "notice of minimum loan repayment"
+    ],
+    "owner and beneficiary change": [
+        "policy update confirmation",
+        "collateral assignment confirmation",
+        "name change confirmation",
+        "owner confirmation",
+        "beneficiary change confirmation"
+    ],
+    "policy cash value quote": [
+        "policy cash value quote"
+    ],
+    "policy dividend history": [
+        "policy dividend history"
+    ],
+    "policy loan confirmation": [
+        "policy loan confirmation"
+    ],
+    "policy loan history": [
+        "policy loan history"
+    ],
+    "policy loan quote": [
+        "policy loan quote"
+    ],
+    "policy surrender confirmation": [
+        "policy surrender confirmation"
+    ],
+    "premium payment history": [
+        "premium payment history"
+    ],
+    "quote term policy": [
+        "quote term policy",
+        "term policy value quote"
+    ],
+    "ri consumer letter": [
+        "ri consumer letter",
+        "important insurance disclosure – please review"
+    ],
+    "recorded nonforfeiture confirmation": [
+        "recorded nonforfeiture confirmation"
+    ],
+    "skip recovery privacy notice": [
+        "privacy policy – please review",
+        "Privacy Notice"
+    ],
+    "stale check": [
+        "your request has been received – please review",
+        "stale dated checks"
+    ],
+    "tax identification confirmation": [
+        "tax identification number update confirmation"
+    ],
+    "third party designation confirmation": [
+        "third party designation confirmation"
+    ],
+    "wi consumer letter": [
+        "important insurance disclosure – please review",
+        "wi consumer letter"
+    ],
+    "wma check": [
+        "pay to the order of",
+        "reason:"
+    ],
+    "expiration of rider-benefit": [
+        "your policy contains a benefit – please review",
+        "your policy contains a rider – please review"
+    ],
+    "notice premium or rider premium change": [
+        "your premium is changing – please review",
+        "what you need to do"
+    ],
+    "suspend billing confirmation": [
+        "suspend billing confirmation",
+        "resume billing confirmation"
+    ],
+    "notice of payment due": [
+        "notice of payment due",
+        "face amount"
+    ],
+    "confirmation planned premium change": [
+        "payment change confirmation",
+        "This is not a bill"
+    ],
+    "confirmation annual dividend election": [
+        "annual dividend election confirmation"
+    ],
+    "confirmation fund transfer": [
+        "fund transfer confirmation"
+    ],
+    "confirmation rebalancing program": [
+        "rebalancing program confirmation"
+    ],
+    "confirmation premium allocation": [
+        "premium allocation confirmation"
+    ],
+    "confirmation loan interest rate change": [
+        "loan interest change confirmation"
+    ],
+    "retail life annual statement": [
+        "statement_name"
+    ],
+    "Confirmation Accelerated Payment": [
+        "Accelerated Payment Confirmation",
+        "Under this payment arrangement, a withdrawal from your policy’s"
+    ],
+    "NOTICE OF PAYMENT DUE- LOAN REMINDER":[
+        "Loan Repayment Reminder"
+
+    ],
+    "Confirmation dollarcost averaging program":[
+        "Dollar Cost Averaging Confirmation"
+    ],
+
+    "List Bill":[
+        "Notice of Payment Due",
+        "Bill due date"
+    ],
+    "VUL quarterl statement letter":[
+        "QUARTERLY STATEMENT"
+
+    ],
+    "VUL lapse pending":[
+        "Notice of Required Payment"
+    ]
+}
